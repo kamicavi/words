@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a poem, of sorts: the next chapter
+title: 'a poem, of sorts: the next chapter'
 slug: poem-next-chapter
 ---
 

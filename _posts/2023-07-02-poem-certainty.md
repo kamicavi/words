@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a poem, of sorts: certainty
+title: 'a poem, of sorts: certainty'
 slug: poem-certainty
 ---
 

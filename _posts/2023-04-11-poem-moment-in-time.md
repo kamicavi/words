@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a poem, of sorts: a moment in time
+title: 'a poem, of sorts: a moment in time'
 slug: poem-moment-in-time
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a poem, of sorts: numbers
+title: 'a poem, of sorts: numbers'
 slug: poem-numbers
 ---
 
