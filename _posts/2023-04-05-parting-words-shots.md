@@ -4,7 +4,7 @@ title: parting words | shots
 slug: parting-words-shots
 ---
 
-I \[long | love\] to be this cryptic little being who disappears off into the wilderness | away | country with a few parting words: 
+I long \| love to be this cryptic little being who disappears off into the wilderness \| country \| away with a few parting words: 
 - i hope you find all you seek
 - i hope you find what you are looking for, rosa
 - good luck \[for what?\]
