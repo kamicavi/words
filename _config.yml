@@ -1,6 +1,6 @@
 title: words
 description: from my mind
-baseurl: "words.may.bekenny.me"
+baseurl: ""
 url: "https://words.may.bekenny.me"
 github_username:  kamicavi
 
@@ -12,7 +12,7 @@ favicon: "favicon.png"
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "dark"
+  appearance: "dark "
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%d/%m/%Y" # customize how date is formatted
   show_description: true # show blog description in home page
