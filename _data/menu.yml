@@ -11,4 +11,5 @@ entries:
       - title: this site uses <a href=github.com/riggraz/no-style-please>riggraz's no-style-please theme</a> and runs on jekyll hosted for free on github pages
       - title: report a bug on github
         url: github.com/kamicavi/words
+      - title: future words, or the continuing availability of words, are not guaranteed
       
