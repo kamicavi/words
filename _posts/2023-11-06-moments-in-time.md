@@ -10,4 +10,6 @@ but ill snatch the moments we can have
 
 and take them and treasure them forever
 
-those words, from your mouth, in my hand
+those words, from your mouth,
+
+still warm in my hand
