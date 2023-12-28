@@ -1,3 +1,9 @@
 entries:
   - title: posts
     post_list: true
+  - title: me
+    entries:
+      - title: photos (instagram@may.bekenny)
+        url: instagram.com/may.bekenny
+      - title: report a bug
+        url: github.com/kamicavi/words
