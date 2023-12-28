@@ -1,8 +1,7 @@
 title: words
-email: no@example.com
-description: words on my mind
-baseurl: ""
-url: "https://kamicavi.github.io"
+description: from my mind
+baseurl: "words.may.bekenny.me"
+url: "https://words.may.bekenny.me"
 github_username:  kamicavi
 
 permalink: /:slug.html
@@ -13,7 +12,7 @@ favicon: "favicon.png"
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "light"
+  appearance: "dark"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%d/%m/%Y" # customize how date is formatted
   show_description: true # show blog description in home page
