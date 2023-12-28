@@ -4,7 +4,7 @@ title: unsure
 slug: words-unsure
 ---
 
-i feel terrible
+i feel so bad
 
 i can't remember 
 
