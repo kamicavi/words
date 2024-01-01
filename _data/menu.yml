@@ -11,6 +11,6 @@ entries:
       - title: you can get this series of words over <a href=/feed.xml>rss</a>, if you can find a reader that still works
       - title: this site uses <a href=//github.com/riggraz/no-style-please>riggraz's no-style-please theme</a> and runs on jekyll hosted for free on github pages
       - title: report a bug on github
-        url: //github.com/kamicavi/words
+        url: //github.com/kamicavi/words/issues
       
       
