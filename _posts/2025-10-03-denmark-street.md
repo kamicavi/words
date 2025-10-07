@@ -14,7 +14,7 @@ It grinds society to a halt
 
 And yet we smile. Grin. 
 
-Look out upon the rain from the edge of warmth, feel the splashes on your skin
+Look out upon the rain from the edge of warmth, feel the splashes on your skin.
 
 Watch the skies turn, the sun fade, the clouds turn from grey to black.
 
